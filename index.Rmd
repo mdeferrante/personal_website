@@ -1,0 +1,14 @@
+---
+title: "Morgan de Ferrante"
+---
+```{r, out.width = "150px", echo = FALSE, fig.align='center'}
+knitr::include_graphics("KB4A0531.jpg")
+```
+
+##Welcome
+I am a current Biostatistics student at Columbia University. My research interests include survival analysis, Alzheimer's research, and pharmacogenomics. 
+
+Feel free to explore my page contact me if you have any inquiries. 
+
+
+

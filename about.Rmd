@@ -1,0 +1,36 @@
+---
+title: "Education"
+---
+
+
+
+###Columbia Mailman School of Public Health 
+
+Master of Science, Biostatistics
+
+2017 - present
+
+
+```{r, out.width = "250px", echo = FALSE, fig.align='right'}
+knitr::include_graphics("Columbia-Mailman-School.png")
+```
+
+
+
+###University of California, Los Angeles
+
+Bachelor of Science, Statistics
+
+Minor in Mathematics
+
+2013 - 2017
+```{r, out.width = "125px", echo = FALSE, fig.align='right'}
+knitr::include_graphics("ucla-box-blu-rgb-1h.jpg")
+```
+
+
+
+###ACCENT Study Center, Florence Italy
+Study Abroad Program, Italian Language and Art 
+
+Fall 2015

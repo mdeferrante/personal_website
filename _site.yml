@@ -1,0 +1,19 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "Education"
+      href: about.html
+    - text: "Experience"
+      href: exp.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<morgan.deferrante@gmail.com>
+    - icon: fa fa-linkedin
+      href: https://www.linkedin.com/in/morgan-de-ferrante-a161b5114/
+    - icon: fa-github fa-lg
+      href: http://github.com/mdeferrante/
+output:
+  html_document: 
+    theme: cosmo
+  
