@@ -9,7 +9,7 @@ title: "Education"
 Master of Science, Biostatistics
 
 2017 - present
-
+ 
 
 ```{r, out.width = "250px", echo = FALSE, fig.align='right'}
 knitr::include_graphics("Columbia-Mailman-School.png")

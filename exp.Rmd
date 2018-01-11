@@ -8,7 +8,7 @@ output: html_document
 -	Proficient in R, SPSS, Microsoft Word, Excel, PowerPoint
 -	Basic Knowledge of SAS, LaTeX, STATA, C++, MATLAB
 
-
+ 
 ##Research
 __UCLA Semel Institute for Neuroscience – Dept. of Psychiatry and Behavioral Sciences__
 
