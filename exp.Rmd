@@ -1,14 +1,15 @@
 ---
-title: "Experience"
+title: ""
 output: html_document
 ---
+<br>
 
 ##Skills	
 -	Proficient in R, SPSS, Microsoft Word, Excel, PowerPoint
 -	Basic Knowledge of SAS, LaTeX, STATA, C++, MATLAB
 
 
-##Research Experience
+##Research
 __UCLA Semel Institute for Neuroscience – Dept. of Psychiatry and Behavioral Sciences__
 
 Undergraduate Research Assistant <p style='text-align: right;'>August 2016 – April 2017</p>

@@ -5,7 +5,7 @@ navbar:
   right:
     - text: "Education"
       href: about.html
-    - text: "Experience"
+    - text: "Skills & Experience"
       href: exp.html
     - icon: fa-envelope fa-lg
       href: mailto:<morgan.deferrante@gmail.com>
