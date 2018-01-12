@@ -6,7 +6,7 @@ knitr::include_graphics("KB4A0531.jpg")
 ```
 
 ##Welcome
-I am a current Biostatistics student at Columbia University. My research interests include survival analysis and Alzheimer's research. 
+I am a current Biostatistics student at Columbia University. My research interests include survival analysis, oncology, and Alzheimer's research. 
 
 Feel free to explore my page and contact me if you have any questions! 
 
