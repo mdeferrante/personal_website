@@ -8,6 +8,13 @@ output: html_document
 -	Proficient in R, SPSS, Microsoft Word, Excel, PowerPoint
 -	Basic Knowledge of SAS, LaTeX, STATA, C++, MATLAB
 
+##Employment
+__DT Marketing__
+
+Marketing and Data Analyst <p style='text-align: right;'>June 2010 - current</p> 
+
+-	Worked in both research and marketing sectors for a boutique consulting firm; compiled, coded and analyzed consumers’ data from various topics of discovery including product development, consumer satisfaction, and segmentation, to provide suggestions and enhance the areas being explored; tools used included SPSS and MS Excel to create frequency tables, crosstabs, and graphs; Created final decks and report summaries for clients
+-	Factor analysis utilized to create sample population group segments for clients targeting specific markets; Various statistical analyses used depending on research requested by client
  
 ##Research
 __UCLA Semel Institute for Neuroscience – Dept. of Psychiatry and Behavioral Sciences__
@@ -33,10 +40,3 @@ Undergraduate Research Assistant <p style='text-align: right;'>March 2016 – Ju
 
 -	Conducted intake and follow-up data entry, database management, visual summaries and analysis using SPSS for various projects, including intervention model practices and participant outcomes of substance abuse treatment, mental health treatment, health services, services for the undocumented, and transition to permanent housing; also assisted in writing of biannual report for process evaluation findings
 
-##Employment
-__DT Marketing__
-
-Marketing and Data Analyst <p style='text-align: right;'>June 2010 - current</p> 
-
--	Worked in both research and marketing sectors for a boutique consulting firm; compiled, coded and analyzed consumers’ data from various topics of discovery including product development, consumer satisfaction, and segmentation, to provide suggestions and enhance the areas being explored; tools used included SPSS and MS Excel to create frequency tables, crosstabs, and graphs; Created final decks and report summaries for clients
--	Factor analysis utilized to create sample population group segments for clients targeting specific markets; Various statistical analyses used depending on research requested by client
