@@ -38,11 +38,11 @@ Fall 2015
 <br>
 
 #Volunteering 
-
 ```{r, out.width = "500px", echo = FALSE, fig.align='left'}
 knitr::include_graphics("habitat.png")
 ```
 
+__Habitat for Humanity__
 
 While at UCLA, I took part in the development of a 72 home community built exclusively for veterans. This housing track in Santa Clarita allows low income veterans to move into homes with built-in equity, and I have had the opportunity to construct these homes alongside the veterans themselves. This past year I was fortunate enough to sit on the executive board as Advocacy Chair. An important facet of my leadership position has been spreading awareness on UCLA’s campus of the fight against substandard housing, both on local and global scales, and encouraging students to get involved and help us make a difference. Executive board responsibilities included planning fundraisers, coordinating build days on site and organizing free tutoring for children of veterans living in the community.
 
