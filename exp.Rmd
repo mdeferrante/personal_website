@@ -8,6 +8,10 @@ output: html_document
 -	Proficient in R, SPSS, Microsoft Word, Excel, PowerPoint
 -	Basic Knowledge of SAS, LaTeX, STATA, C++, MATLAB
 
+## Projects
+<a href="Epidemic.pdf">Differential Equations for Modeling an Epidemic</a>
+
+
 ##Employment
 __DT Marketing__
 
