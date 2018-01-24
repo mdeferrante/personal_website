@@ -20,8 +20,8 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
 
 <style type="text/css">code{white-space: pre;}</style>
@@ -31,10 +31,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -233,6 +235,12 @@ $(document).ready(function () {
 <h3>ACCENT Study Center, Florence Italy</h3>
 <p>Study Abroad Program, Italian Language and Art</p>
 <p>Fall 2015</p>
+<p><br></p>
+</div>
+<div id="volunteering" class="section level1">
+<h1>Volunteering</h1>
+<p><img src="habitat.png" width="500px" style="display: block; margin: auto auto auto 0;" /></p>
+<p>While at UCLA, I took part in the development of a 72 home community built exclusively for veterans. This housing track in Santa Clarita allows low income veterans to move into homes with built-in equity, and I have had the opportunity to construct these homes alongside the veterans themselves. This past year I was fortunate enough to sit on the executive board as Advocacy Chair. An important facet of my leadership position has been spreading awareness on UCLA’s campus of the fight against substandard housing, both on local and global scales, and encouraging students to get involved and help us make a difference. Executive board responsibilities included planning fundraisers, coordinating build days on site and organizing free tutoring for children of veterans living in the community.</p>
 </div>
 
 
