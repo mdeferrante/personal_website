@@ -1,0 +1,19 @@
+---
+title: "Introduction to Biostatistical Methods I"
+output: pdf_document
+---
+
+### Course Description
+
+Like many fields of learning, biostatistics has its own vocabulary often seen in medical and public health literature. Phrases like “statistical significance,” “p-value less than 0.05,” “95% confident,” and “margin of error” can have enormous impact in a world that relies on statistics to make decisions: Should Drug A be recommended over Drug B? Should a national policy on X be implemented? Does Vitamin C truly prevent colds? However, do we really know what these terms and phrases mean? Understanding the theory and methodology behind study design, estimation and hypothesis testing is crucial to ensuring that findings and practices in public health and biomedicine are supported by reliable evidence. This course covers the basic tools for the collection, analysis, and presentation of data. Central to these skills is assessing the impact of chance and variability on the interpretation of research findings and subsequent recommendations for public health practice and policy. Topics covered include: general principles of study design; estimation; hypothesis testing; several methods for comparison of discrete and continuous data including the chi-squared test of independence, t-tests, ANOVA, correlation, linear regression and logistic regression. This introductory course is a Core Course for the Biostatistics Department and is mandatory for all Masters level Biostatistics students.
+
+### Learning Objectives 
+
+Students who successfully complete this course will be able to: 
+- Understand the crucial role of biostatistics in public health and biomedical research.
+- Translate research objectives into clear, testable hypotheses and assess those hypotheses. 
+-Explain the general principles of study design and implications for valid inference. 
+-Distinguish different data types and apply techniques of descriptive statistics to characterize data. 
+- Recognize and employ common probability distributions. 
+- Select appropriate statistical methods to address research questions. 
+- Effectively communicate statistical analysis of public health and biomedical data to public health/medical professionals and lay audiences. 

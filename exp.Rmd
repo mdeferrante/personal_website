@@ -6,16 +6,34 @@ output: html_document
 
 ##Skills	
 -	Proficient in R, SPSS, Microsoft Word, Excel, PowerPoint
--	Basic Knowledge of SAS, LaTeX, STATA, C++, MATLAB
+-	Basic Knowledge of SQL, SAS, LaTeX
+- Familiar with Python, Microsoft Access, STATA, C++, MATLAB
 
 ## Projects
 <a href="Epidemic.pdf">Differential Equations for Modeling an Epidemic</a>
 
 
 ##Employment
+
+__Columbia University, Mailman School of Public Health__
+
+Teaching Assistant
+
+- Teaching assistant for Biostatistical Methods I <a href="course_info.html"> (Course Info)</a>
+
+
+__Regeneron Pharmaceuticals__ 
+
+Biostatistics Intern (June 2018 - August 2018)
+
+- Worked in Pre-Clinical Development conducting simulations and building Bayesian models to explore and demonstrate the use of adaptive clinical trial designs in potential proof of concept studies; used R and Just Another Gibbs Sampler (JAGS) for Bayesian model building and exploration of model fit
+- Used Markov Chain Monte Carlo (MCMC) methods to generate posterior distributions of key clinical study parameters
+- Presented results to multiple departments throughout the company and facilitated discussions on practical considerations for implementing our models
+- Selected to be a Campus Ambassador to represent the company at Columbia University events See less
+
 __DT Marketing__
 
-Marketing and Data Analyst <p style='text-align: right;'>June 2010 - current</p> 
+Marketing and Data Analyst (June 2010 - January 2017)
 
 -	Worked in both research and marketing sectors for a boutique consulting firm; compiled, coded and analyzed consumers’ data from various topics of discovery including product development, consumer satisfaction, and segmentation, to provide suggestions and enhance the areas being explored; tools used included SPSS and MS Excel to create frequency tables, crosstabs, and graphs; Created final decks and report summaries for clients
 -	Factor analysis utilized to create sample population group segments for clients targeting specific markets; Various statistical analyses used depending on research requested by client
@@ -23,13 +41,15 @@ Marketing and Data Analyst <p style='text-align: right;'>June 2010 - current</p>
 ##Research
 __UCLA Semel Institute for Neuroscience – Dept. of Psychiatry and Behavioral Sciences__
 
-Undergraduate Research Assistant <p style='text-align: right;'>August 2016 – April 2017</p>
+Research Assistant (August 2016 – April 2017)
 
 -	Independently conducted all statistical analyses for study using R and SPSS; clustering methods used to identify possible subgroups of schizophrenia disorders; determined outliers and possible explanations for deviations from average scores; independent sample t-tests and chi-squared tests utilized to analyze by group differences in control and patient group, these tests also used to minimize variance between the two groups while recruiting new patients
 -	Scored neurocognitive testing using Communications Disorder Index, transcribed and scored speech samples, and created/maintained research databases for study examining procedural learning and communication disorders in individuals with a history of schizophrenia and schizophrenia-spectrum disorders; trained new research assistants
 
 
-__Summer Institute in Biostatistics – NCSU and Duke Clinical Research Institute__  <p style='text-align: right;'>June 2016 – July 2016</p>
+__Summer Institute in Biostatistics – NCSU and Duke Clinical Research Institute__  
+
+(June 2016 – July 2016)
 
 
 -	Selected for nationally competitive research program
@@ -40,7 +60,7 @@ __Summer Institute in Biostatistics – NCSU and Duke Clinical Research Institut
 
 __UCLA Integrated Substance Abuse Programs – Dept. of Psychiatry and Behavioral Sciences__
 
-Undergraduate Research Assistant <p style='text-align: right;'>March 2016 – June 2016</p>
+Research Assistant (March 2016 – June 2016)
 
 -	Conducted intake and follow-up data entry, database management, visual summaries and analysis using SPSS for various projects, including intervention model practices and participant outcomes of substance abuse treatment, mental health treatment, health services, services for the undocumented, and transition to permanent housing; also assisted in writing of biannual report for process evaluation findings
 

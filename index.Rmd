@@ -1,14 +1,21 @@
 ---
-title: "Morgan de Ferrante"
+title: "Welcome!"
 ---
+
+
+<div style= "float:left;position: relative; top: 0px; left:-20px;">
 ```{r, out.width = "150px", echo = FALSE, fig.align='center'}
 knitr::include_graphics("KB4A0531.jpg")
 ```
+</div>
 
-##Welcome
-I am a current Biostatistics student at Columbia University. My research interests include survival analysis, oncology, and Alzheimer's research. 
+My name is Morgan de Ferrante, and I am a current Biostatistics student at Columbia University, Mailman School of Public Health. I received a B.S. in Statistics (minor in Mathematics) from University of California, Los Angeles in 2017.
+
+I am a teaching assistant for Biostatistical Methods I at Columbia University, and I am currently working on several hypertension research projects with Vagelos College of Physicians & Surgeons. 
 
 Feel free to explore my page and contact me if you have any questions! 
+
+
 
 
  
