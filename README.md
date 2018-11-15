@@ -1,5 +1,5 @@
 # my_website
 
-Simple website I made about me. 
+Simple website personal website. 
 
 The site is published at https://mdeferrante.github.io/my_website/
