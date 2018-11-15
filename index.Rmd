@@ -17,5 +17,36 @@ Feel free to explore my page and contact me if you have any questions!
 
 Email: morgan.deferrante@gmail.com
 
+<br />
 
+<br />
+
+<br />
+
+```{r, echo = FALSE, align = "c", fig.width=10, fig.height=3, warning=FALSE, message=FALSE}
+Dose = factor(c(rep(1,100000), 
+         rep(2,100000),
+         rep(3,100000),
+         rep(4,100000),
+         rep(5,100000),
+         rep(6,100000),
+         rep(7,100000)))
+
+Response  = c(rnorm(100000, -100, 28), 
+         rnorm(100000, -75, 25), 
+         rnorm(100000, -40, 22), 
+         rnorm(100000, 0, 20), 
+         rnorm(100000, 40, 22), 
+         rnorm(100000, 75, 25), 
+         rnorm(100000, 100, 28))
+
+df <- data.frame(Dose, Response)
+library(ggplot2)
+ggplot(df, aes(Response, group=Dose, fill=Dose)) + geom_density(alpha = .3) +
+  labs(x = "", y = " ", group = "", fill = " ")  + 
+  guides(fill = FALSE) + 
+    theme(axis.title.x=element_blank(),
+        axis.text.x=element_blank(),
+        axis.text.y=element_blank())
+```
  
