@@ -17,3 +17,6 @@ Students who successfully complete this course will be able to:
 - Recognize and employ common probability distributions. 
 - Select appropriate statistical methods to address research questions. 
 - Effectively communicate statistical analysis of public health and biomedical data to public health/medical professionals and lay audiences. 
+
+
+<a href="exp.html"> <<< Return </a>
