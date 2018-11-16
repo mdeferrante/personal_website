@@ -12,6 +12,7 @@ output: html_document
 ## Projects
 <a href="Epidemic.pdf">Differential Equations for Modeling an Epidemic</a>
 
+<a href="Classification Methods for Predicting Tumor Malignancy.pdf">Classification Methods for Predicting Tumor Malignancy</a>
 
 ##Experience
 
