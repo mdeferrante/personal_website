@@ -16,11 +16,22 @@ output: html_document
 
 ##Experience
 
+__Columbia University Vagelos College of Physicians and Surgeons__
+
+Associate Statistician (April 2018 – Present)
+
+- Statistical analyst and programmer for Columbia University Medical Center maintaining and summarizing data from a pragmatic trial for improving hypertension control
+- Collaborate with a team of physicians, statisticians and data coordinators developing strategies to optimize efficiency and minimize bias throughout the course of our trial
+- Selected to lead a separate machine learning project using the hypertension data 
+
+
 __Columbia University, Mailman School of Public Health__
 
-Teaching Assistant
+Teaching Assistant (September 2018 – December 2018)
 
-- Teaching assistant for Biostatistical Methods I <a href="course_info.html"> (Course Info)</a>
+- Assisted in instruction of an Introduction to Biostatistical Methods course I <a href="course_info.html"> (Course Info)</a>
+- Taught an Introduction to R Workshop and a review session lecture
+- Facilitated weekly discussions on new course material and practice problems; graded assignments and exams
 
 
 __Regeneron Pharmaceuticals__ 
@@ -44,7 +55,7 @@ __UCLA Semel Institute for Neuroscience – Dept. of Psychiatry and Behavioral S
 Data Analytics Research Assistant (August 2016 – April 2017)
 
 -	Independently conducted all statistical analyses for study using R and SPSS; clustering methods used to identify possible subgroups of schizophrenia disorders; determined outliers and possible explanations for deviations from average scores; independent sample t-tests and chi-squared tests utilized to analyze by group differences in control and patient group, these tests also used to minimize variance between the two groups while recruiting new patients
--	Scored neurocognitive testing using Communications Disorder Index, transcribed and scored speech samples, and created/maintained research databases for study examining procedural learning and communication disorders in individuals with a history of schizophrenia and schizophrenia-spectrum disorders; trained new research assistants
+-	Scored neurocognitive testing using Communications Disorder Index, transcribed and scored speech samples, and created/maintained research databases to examine procedural learning and communication disorders in individuals with a history of schizophrenia and schizophrenia-spectrum disorders; trained new research assistants
 
 
 __Summer Institute in Biostatistics – NCSU and Duke Clinical Research Institute__  
