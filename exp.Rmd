@@ -52,7 +52,7 @@ knitr::include_graphics("conference.jpg")
 - Presented results at the Deming Conference on Applied Statistics (December 2018) 
 
 
-
+ 
 __DT Marketing__
 
 Marketing and Data Analyst (June 2010 - January 2017)
