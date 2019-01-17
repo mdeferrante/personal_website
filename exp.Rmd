@@ -38,7 +38,7 @@ __Regeneron Pharmaceuticals__
 
 Biostatistics Intern (June 2018 - August 2018)
 
-- Worked in Pre-Clinical Development conducting simulations and building Bayesian models to explore and demonstrate the use of adaptive clinical trial designs in potential proof of concept studies; used R and Just Another Gibbs Sampler (JAGS) for Bayesian model building and exploration of model fit
+- Worked in Early Clinical Development conducting simulations and building Bayesian models to explore and demonstrate the use of adaptive clinical trial designs in potential proof of concept studies; used R and Just Another Gibbs Sampler (JAGS) for Bayesian model building and exploration of model fit
 - Used Markov Chain Monte Carlo (MCMC) methods to generate posterior distributions of key clinical study parameters
 - Presented results to multiple departments throughout the company and facilitated discussions on practical considerations for implementing our models
 - Selected to be a Campus Ambassador to represent the company at Columbia University events See less
