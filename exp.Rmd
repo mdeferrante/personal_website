@@ -5,7 +5,7 @@ output: html_document
 <br>
 
 ##Skills	
--	Proficient in R (5+ years experience), SPSS, Microsoft Word, Excel, PowerPoint
+-	Proficient in R (including R Shiny, flexdashboard, ggplot, rjags), SPSS, Microsoft Word, Excel, PowerPoint
 -	Basic Knowledge of SQL, Python, SAS, LaTeX
 - Familiar with Microsoft Access, STATA, C++, MATLAB
 
@@ -31,7 +31,7 @@ Associate Statistician (April 2018 – June 2019)
 
 - Statistical analyst and programmer for Columbia University Medical Center maintaining and summarizing data from a pragmatic trial for improving hypertension control
 - Collaborate with a team of physicians, statisticians and data coordinators developing strategies to optimize efficiency and minimize bias throughout the course of our trial
-- Selected to lead a separate machine learning project using the hypertension data 
+- Selected to lead a separate machine learning project using hypertension data 
 
 
 __Columbia University, Mailman School of Public Health__
