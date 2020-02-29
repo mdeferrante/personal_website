@@ -10,6 +10,7 @@ Like many fields of learning, biostatistics has its own vocabulary often seen in
 ### Learning Objectives 
 
 Students who successfully complete this course will be able to: 
+
 - Understand the crucial role of biostatistics in public health and biomedical research.
 - Translate research objectives into clear, testable hypotheses and assess those hypotheses. 
 -Explain the general principles of study design and implications for valid inference. 

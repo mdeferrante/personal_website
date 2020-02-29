@@ -6,8 +6,8 @@ output: html_document
 
 ##Skills	
 -	Proficient in R (5+ years experience), SPSS, Microsoft Word, Excel, PowerPoint
--	Basic Knowledge of SQL, SAS, LaTeX
-- Familiar with Python, Microsoft Access, STATA, C++, MATLAB
+-	Basic Knowledge of SQL, Python, SAS, LaTeX
+- Familiar with Microsoft Access, STATA, C++, MATLAB
 
 ## Projects
 <a href="Epidemic.pdf">Differential Equations for Modeling an Epidemic</a>
@@ -16,9 +16,18 @@ output: html_document
 
 ##Experience
 
+__Regeneron Pharmaceuticals, Inc.__ 
+
+Biostatistician (June 2019 - Present)
+
+- Work with cross-functional teams to articulate drug development questions, frame statistical approaches to address those questions, design clinical studies to generate the requisite data and analyze the resulting data, and provide statistical insight into interpretation and discussion of study results
+- Write statistical analysis plans, perform statistical analyses in R for interim and final reports, and present results to clinical study teams 
+- Develop data and programming specifications jointly with programmers, validate analysis programs in R and SAS, develop R Shiny Apps and for data visualization and understanding of statistical techniques
+
+
 __Columbia University Vagelos College of Physicians and Surgeons__
 
-Associate Statistician (April 2018 – Present)
+Associate Statistician (April 2018 – June 2019)
 
 - Statistical analyst and programmer for Columbia University Medical Center maintaining and summarizing data from a pragmatic trial for improving hypertension control
 - Collaborate with a team of physicians, statisticians and data coordinators developing strategies to optimize efficiency and minimize bias throughout the course of our trial
@@ -34,7 +43,7 @@ Teaching Assistant (September 2018 – December 2018)
 - Facilitated weekly discussions on new course material and practice problems; graded assignments and exams
 
 
-__Regeneron Pharmaceuticals__ 
+__Regeneron Pharmaceuticals, Inc.__ 
 
 Biostatistics Intern (June 2018 - August 2018)
 
