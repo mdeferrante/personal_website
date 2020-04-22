@@ -21,17 +21,18 @@ __Regeneron Pharmaceuticals, Inc.__
 Biostatistician (June 2019 - Present)
 
 - Work with cross-functional teams to articulate drug development questions, frame statistical approaches to address those questions, design clinical studies to generate the requisite data and analyze the resulting data, and provide statistical insight into interpretation and discussion of study results
-- Write statistical analysis plans, perform statistical analyses in R for interim and final reports, and present results to clinical study teams 
-- Develop data and programming specifications jointly with programmers, validate analysis programs in R and SAS, develop R Shiny Apps and for data visualization and understanding of statistical techniques
+- Write statistical analysis plans, build models and perform statistical analyses in R for interim and final reports, and present results to clinical study teams 
+- Develop data and programming specifications jointly with programmers, validate analysis programs in R and SAS, develop R Shiny Apps for data visualization and understanding of statistical techniques
+
 
 
 __Columbia University Vagelos College of Physicians and Surgeons__
 
 Associate Statistician (April 2018 – June 2019)
 
+- Selected to lead machine learning project using hypertension data 
 - Statistical analyst and programmer for Columbia University Medical Center maintaining and summarizing data from a pragmatic trial for improving hypertension control
 - Collaborate with a team of physicians, statisticians and data coordinators developing strategies to optimize efficiency and minimize bias throughout the course of our trial
-- Selected to lead a separate machine learning project using hypertension data 
 
 
 __Columbia University, Mailman School of Public Health__
