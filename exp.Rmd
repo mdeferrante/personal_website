@@ -7,7 +7,7 @@ output: html_document
 ##Skills	
 -	Proficient in R (including R Shiny, flexdashboard, ggplot, rjags), SPSS, Microsoft Word, Excel, PowerPoint
 -	Basic Knowledge of SQL, Python, SAS, LaTeX
-- Familiar with Microsoft Access, C++, MATLAB
+- Familiar with Microsoft Access, UNIX, C++, MATLAB
 
 ## Projects
 <a href="Epidemic.pdf">Differential Equations for Modeling an Epidemic</a>
