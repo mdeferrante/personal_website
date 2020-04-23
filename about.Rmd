@@ -13,9 +13,9 @@ knitr::include_graphics("Columbia-Mailman-School.png")
 
 Master of Science, Biostatistics
 
-2017 - present
+2017 - 2019
  
-
+*Chair's Award for Outstanding Masters Student
 
 <div style= "float:right;position: relative; top: 0px;">
 ```{r, out.width = "125px", echo = FALSE, fig.align='right'}
