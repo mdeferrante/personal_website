@@ -18,7 +18,7 @@ output: html_document
 
 __Regeneron Pharmaceuticals, Inc.__ 
 
-Biostatistician (June 2019 - Present)
+Biostatistics Consultant (June 2019 - Present)
 
 - Work with cross-functional teams to articulate drug development questions, frame statistical approaches to address those questions, design clinical studies to generate the requisite data and analyze the resulting data, and provide statistical insight into interpretation and discussion of study results
 - Write statistical analysis plans, build models and perform statistical analyses in R for interim and final reports, and present results to clinical study teams 
@@ -40,7 +40,7 @@ __Columbia University, Mailman School of Public Health__
 Teaching Assistant (September 2018 – December 2018)
 
 - Assisted in instruction of an Introduction to Biostatistical Methods course I <a href="course_info.html"> (Course Info)</a>
-- Taught an Introduction to R Workshop and a review session lecture
+- Taught an Introduction to R Workshop and review session lectures
 - Facilitated weekly discussions on new course material and practice problems; graded assignments and exams
 
 
